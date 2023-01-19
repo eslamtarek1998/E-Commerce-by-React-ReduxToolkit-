@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-by-React-ReduxToolkit-/static/css/main.44f8b8b5.css",
+    "main.js": "/E-Commerce-by-React-ReduxToolkit-/static/js/main.446d5424.js",
+    "index.html": "/E-Commerce-by-React-ReduxToolkit-/index.html",
+    "main.44f8b8b5.css.map": "/E-Commerce-by-React-ReduxToolkit-/static/css/main.44f8b8b5.css.map",
+    "main.446d5424.js.map": "/E-Commerce-by-React-ReduxToolkit-/static/js/main.446d5424.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.446d5424.js"
+  ]
+}
